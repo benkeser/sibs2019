@@ -15,14 +15,12 @@ run basic machine learning analyses on real and simulated data.
 
 This GitHub repository contains the source code needed to build the
 docker image that was used in class. The built image is also available on
-[DockerHub]
-(https://cloud.docker.com/u/dbenkeser/repository/docker/dbenkeser/sibs2019).
+[DockerHub](https://cloud.docker.com/u/dbenkeser/repository/docker/dbenkeser/sibs2019).
 The `R` code can be found in the `/R` directory, while `.RData` files are in
 the `/data` directory. 
 
 To run the docker image on a local machine (i.e., to obtain the same R Studio
-environment that was demonstrated in class), you need to [download docker]
-(https://docs.docker.com/docker-for-windows/install/) to your local machine. 
+environment that was demonstrated in class), you need to [download docker](https://docs.docker.com/docker-for-windows/install/) to your local machine. 
 
 From the command line you would execute the command.
 
